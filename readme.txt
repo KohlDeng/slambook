@@ -37,8 +37,10 @@ https://www.jianshu.com/p/b10c2b163100
 
 yolo train
 https://blog.csdn.net/haithink/article/details/88843297?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.pc_relevant_baidujshouduan&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7Edefault-5.pc_relevant_baidujshouduan
+http://www.360doc.com/content/21/0110/02/68330161_956093096.shtml
 
-
+conda tenseorflow
+https://blog.csdn.net/qq_42109740/article/details/105662320?spm=1001.2014.3001.5501
 
 
 

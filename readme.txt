@@ -43,6 +43,12 @@ conda tenseorflow
 https://blog.csdn.net/qq_42109740/article/details/105662320?spm=1001.2014.3001.5501
 
 
+2020.8.5
+git branch
+可以提交 push 呈现出分支在
+git switch master
+git merge dev1
+https://blog.csdn.net/afei__/article/details/51567155
 
 
 

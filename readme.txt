@@ -54,6 +54,9 @@ git branch 可以提交 push 呈现出分支
 git switch master
 git merge dev1
 https://blog.csdn.net/afei__/article/details/51567155
+github ssh
+https://docs.github.com/cn/github/authenticating-to-github/connecting-to-github-with-ssh
+git pull
 
 terminator 窗口分屏
 https://www.cnblogs.com/phpper/p/9203932.html
@@ -72,6 +75,8 @@ https://www.huaweicloud.com/articles/eb2e49445b0949ec0552a83840a19752.html
 
 体验voc训练的过程
 tiny具体是怎么回事
+
+
 
 
 

@@ -76,7 +76,9 @@ https://www.huaweicloud.com/articles/eb2e49445b0949ec0552a83840a19752.html
 体验voc训练的过程
 tiny具体是怎么回事
 
-
+2021.8.8
+Ubuntu windows time symchronzie
+https://gsy00517.github.io/ubuntu20200117085337/
 
 
 

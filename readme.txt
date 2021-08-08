@@ -80,6 +80,18 @@ tiny具体是怎么回事
 Ubuntu windows time symchronzie
 https://gsy00517.github.io/ubuntu20200117085337/
 
+camera lidar calibration
+https://github.com/Livox-SDK/livox_camera_lidar_calibration
+
+next week
+fssim
+camera lidar calibration
+lidar SDK
+camera SDK
+4 cones
+3 cones
+train
+
 
 
 

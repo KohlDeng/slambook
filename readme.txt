@@ -1,5 +1,5 @@
 Ubuntu与v2aky.com
-
+=========================Linux basic knowledge==============================================
 2021.7.31
 sudo dpkg -i aa.deb
 https://zhuanlan.zhihu.com/p/339632982
@@ -31,7 +31,24 @@ https://zhuanlan.zhihu.com/p/61515833
 
 find/locate/history
 https://www.cnblogs.com/azhqiang/p/7728756.html
-======================================================================================================
+
+2021.8.5
+远程连接
+ssh -p 22 deepin2@192.168.56.132
+https://www.jianshu.com/p/b10c2b163100
+
+git usage
+git branch 可以提交 push 呈现出分支
+git switch master
+git merge dev1
+https://blog.csdn.net/afei__/article/details/51567155
+github ssh
+https://docs.github.com/cn/github/authenticating-to-github/connecting-to-github-with-ssh
+git pull
+
+terminator 窗口分屏
+https://www.cnblogs.com/phpper/p/9203932.html
+=============================Project=========================================================================
 2021.8.1
 image sequence from video
 ffmpeg
@@ -64,39 +81,12 @@ https://www.huaweicloud.com/articles/eb2e49445b0949ec0552a83840a19752.html
 YOLO踩坑：编译darknet_ros报错no matching function for call to ‘_IplImage::_IplImage(cv::Mat&)’的解决方案
 https://blog.csdn.net/weixin_41855010/article/details/111402710
 
-2021.8.5
-远程连接
-ssh -p 22 deepin2@192.168.56.132
-https://www.jianshu.com/p/b10c2b163100
 
-
-git usage
-git branch 可以提交 push 呈现出分支
-git switch master
-git merge dev1
-https://blog.csdn.net/afei__/article/details/51567155
-github ssh
-https://docs.github.com/cn/github/authenticating-to-github/connecting-to-github-with-ssh
-git pull
-
-terminator 窗口分屏
-https://www.cnblogs.com/phpper/p/9203932.html
 
 2020.08.06
 camera lidar calibration
 https://github.com/Livox-SDK/livox_camera_lidar_calibration
-2021.8.3
-跑通激光雷达和相机的代码
-https://github.com/DIAN-Racing-Driverless/HIKROBOT-MVS-CAMERA-ROS
 
-next week
-fssim
-camera lidar calibration
-lidar SDK
-camera SDK
-4 cones
-3 cones
-train
 
 2021.8.9
 ROS install
@@ -118,9 +108,8 @@ rqt_rviz
 2021.7
 修改launch文件和yaml文件不需要重新编译，重新打开进程就可以
 
-
-===================================================================================================================
-bag/debag package install
+======================================bag/debag=============================================================================
+package install
 
 ubuntu1804解决libjasper-dev无法安装
 https://blog.csdn.net/sophia_xw/article/details/95446515?ops_request_misc=&request_id=&biz_id=102&utm_term=Ubuntu18.04%E8%A7%A3%E5%86%B3libjasper-dev&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-5-95446515.first_rank_v2_pc_rank_v29
@@ -128,5 +117,14 @@ https://blog.csdn.net/sophia_xw/article/details/95446515?ops_request_misc=&reque
 #coding=utf-8
 #!/usr/bin/env python
 https://blog.csdn.net/weixin_45839124/article/details/106794474
-
+====================================================================================================================
+Tasks arrangement
+next week
+fssim
+camera lidar calibration
+lidar SDK
+camera SDK
+4 cones
+3 cones
+train
 

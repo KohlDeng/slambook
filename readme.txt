@@ -92,8 +92,12 @@ camera SDK
 3 cones
 train
 
-
-
+2021.8.9
+ROS camera timestamp
+https://blog.csdn.net/hcx25909/article/details/9165195
+ROS trajectory show
+https://lightsail.blog.csdn.net/article/details/70256437
+https://blog.csdn.net/u013834525/article/details/80447931?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EsearchFromBaidu%7Edefault-1.pc_relevant_baidujshouduan&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EsearchFromBaidu%7Edefault-1.pc_relevant_baidujshouduan
 
 
 

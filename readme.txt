@@ -81,8 +81,6 @@ https://www.huaweicloud.com/articles/eb2e49445b0949ec0552a83840a19752.html
 YOLO踩坑：编译darknet_ros报错no matching function for call to ‘_IplImage::_IplImage(cv::Mat&)’的解决方案
 https://blog.csdn.net/weixin_41855010/article/details/111402710
 
-
-
 2020.08.06
 camera lidar calibration
 https://github.com/Livox-SDK/livox_camera_lidar_calibration
@@ -117,8 +115,7 @@ https://blog.csdn.net/sophia_xw/article/details/95446515?ops_request_misc=&reque
 #coding=utf-8
 #!/usr/bin/env python
 https://blog.csdn.net/weixin_45839124/article/details/106794474
-====================================================================================================================
-Tasks arrangement
+====================================Tasks arrangement=============================================================================
 next week
 fssim
 camera lidar calibration

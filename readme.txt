@@ -22,6 +22,29 @@ https://www.cnblogs.com/jyaray/archive/2011/04/30/2033362.html
 tar –xvf file.tar
 tar -xf
 
+find/locate 寻找文件位置
+mv ttt.txt test3 移动文件
+python3
+top/htop 查看动态
+watch -n 10 nvidia-smi
+
+卸载nvidia
+sudo apt remove --purge nvidia*
+sudo apt autoremove
+
+sudo apt update
+sudo aptgrade
+
+ubuntu-drivers devices
+sudo ubuntu-drivers autoinstall
+
+
+卸载解压文件
+zipinfo -1 文件名.zip | xargs rm -rf
+tar -tf 文件名.tar | xargs rm -rf
+
+chmod +x的意思就是给执行权限
+
 2021.8.8
 Ubuntu windows time symchronzie
 https://gsy00517.github.io/ubuntu20200117085337/
@@ -105,6 +128,12 @@ rqt_rviz
 
 2021.7
 修改launch文件和yaml文件不需要重新编译，重新打开进程就可以
+
+Ubuntu18.04：
+视觉14讲代码
+百度applo的代码
+ROS的代码
+Yolo代码
 
 ======================================bag/debag=============================================================================
 package install
